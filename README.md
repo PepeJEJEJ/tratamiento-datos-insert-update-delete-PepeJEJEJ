@@ -5,9 +5,6 @@
 ```markdown
 # 📘 Tratamiento de Datos en SQL  
 ### INSERT · UPDATE · DELETE · Integridad referencial · Diccionario de datos
-
-Este documento resume las operaciones fundamentales de manipulación de datos (DML) en SQL, junto con conceptos clave como integridad referencial y consultas al diccionario de datos.
-
 ---
 
 # 1️⃣ Introducción
