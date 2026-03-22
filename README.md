@@ -37,9 +37,10 @@ Los permisos indican qué puede hacer un usuario.
 |---------|---------|
 | **SELECT** | Consultar datos |
 | **INSERT** | Insertar datos |
+| **CREATE** | Crear tablas |
+| **READ** | Leer tablas |
 | **UPDATE** | Modificar datos |
 | **DELETE** | Eliminar datos |
-| **CREATE** | Crear tablas |
 | **DROP** | Eliminar tablas |
 | **ALTER** | Modificar tablas |
 | **INDEX** | Crear índices |
