@@ -1,8 +1,6 @@
 [github.com](https://github.com/PepeJEJEJ/tratamiento-datos-insert-update-delete-PepeJEJEJ/edit/main/README.md)
 # 12 Creacion, Lectura, Modificacion y Borrado de Tablas
 ---
-
-```markdown
 # 📘 Tratamiento de Datos en SQL  
 ### INSERT · UPDATE · DELETE · Integridad referencial · Diccionario de datos
 ---
